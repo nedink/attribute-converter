@@ -2,7 +2,7 @@
 
 You know what to do...
 
-1.Iimport as gradle proj
+1. Import as gradle project
 
 2. Enable annotation processing
 
